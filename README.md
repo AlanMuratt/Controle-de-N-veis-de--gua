@@ -1,9 +1,9 @@
-#🏞️ Controle de Níveis de Água – Terminal com Colorama
+# 🏞️ Controle de Níveis de Água – Terminal com Colorama
 
 Este projeto simula um sistema simples de monitoramento de níveis de água em um reservatório.
 Ele exibe mensagens coloridas no terminal utilizando a biblioteca colorama, seguindo diferentes níveis de risco.
 
-##📌 Objetivo do Sistema
+## 📌 Objetivo do Sistema
 
 O programa apresenta mensagens de alerta conforme o nível do reservatório, ajudando a visualizar de forma clara o status atual da água.
 
@@ -20,7 +20,7 @@ Nível	Situação	Cor usada
 4	Alto	Ciano
 5	Muito alto (alerta)	Azul
 
-##🧠 Tecnologias e Conceitos Utilizados
+## 🧠 Tecnologias e Conceitos Utilizados
 Python 3
 colorama (para colorir mensagens no terminal)
 Listas
@@ -32,7 +32,7 @@ Simulação de níveis (sem entrada de usuário)
 ![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)
 
-##🧩 Como funciona o código
+## 🧩 Como funciona o código
 
 O programa:
 
@@ -42,7 +42,7 @@ Usa uma função para determinar a cor de cada nível
 Exibe no terminal cada nível com sua cor correspondente
 Restaura o estilo padrão automaticamente
 
-##🧪 Exemplo de Execução
+## 🧪 Exemplo de Execução
 
 Ao rodar o código, você verá no terminal algo como:
 
