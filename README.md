@@ -37,6 +37,7 @@ Define uma lista com os 5 níveis de alerta
 Usa uma função para determinar a cor de cada nível
 Exibe no terminal cada nível com sua cor correspondente
 Restaura o estilo padrão automaticamente
+
 🧪 Exemplo de Execução
 
 Ao rodar o código, você verá no terminal algo como:
