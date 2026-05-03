@@ -28,6 +28,10 @@ Funções
 Estrutura sequencial
 Simulação de níveis (sem entrada de usuário)
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)
+![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)
+
 🧩 Como funciona o código
 
 O programa:
