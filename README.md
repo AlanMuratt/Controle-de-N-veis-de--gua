@@ -19,6 +19,7 @@ Nível	Situação	Cor usada
 3	Médio	Verde
 4	Alto	Ciano
 5	Muito alto (alerta)	Azul
+
 🧠 Tecnologias e Conceitos Utilizados
 Python 3
 colorama (para colorir mensagens no terminal)
@@ -26,6 +27,7 @@ Listas
 Funções
 Estrutura sequencial
 Simulação de níveis (sem entrada de usuário)
+
 🧩 Como funciona o código
 
 O programa:
